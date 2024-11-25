@@ -3,25 +3,44 @@ OpenYourMind merupakan salah satu yayasan kesehatan mental:
 
 # Tech Stack
 1. Programming Language
-* Javascript
-* Php
-* UI Framework
+  * Javascript
+  * Php
 
-TailwindCSS
-Vue 3 | Compostion API
-Figma Design
-Library
+2. Framework
+  * Laravel 11
 
+3. UI Framework
+  *TailwindCSS
+  *Vue 3 | Compostion API
+  *Figma Design
+
+4. Library
 State Management & Routing
-Pinia
-vue-router
+  * Pinia
+  * vue-router
 Icon, & Utilities
-iconify
-Tools & Unit Test
+  * iconify
 
-Vite
-Axios
-editorConfig
-Database
+5. Tools & Unit Test
+  * Vite
+  * Axios
+  * editorConfig
 
-MySql
+5. Database
+  * MySql
+
+# Folder Structure
+OPENYOURMIND-2
+└── resources
+	├── css
+	├── public
+	├── views
+        ├── welcome.blade.php
+	├── js
+	    ├── app.js
+	    ├── bootstrap.js
+	    ├── layouts
+	    ├── components
+	    ├── router
+	    ├── store
+	    ├── views
