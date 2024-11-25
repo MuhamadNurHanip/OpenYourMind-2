@@ -1,5 +1,8 @@
-# About Open-your-mind
+# About Open-your-mind 
 OpenYourMind merupakan salah satu yayasan kesehatan mental:
+
+ ### © By IT OYM BATCH 2
+All rights reserved. Unauthorized copying, distribution, or modification of this project is prohibited.
 
 # Tech Stack
 1. Programming Language
@@ -45,7 +48,3 @@ OPENYOURMIND-2
 	    ├── router
 	    ├── store
 	    ├── views
-
-
- ### © By IT OYM BATCH 2
-All rights reserved. Unauthorized copying, distribution, or modification of this project is prohibited.
