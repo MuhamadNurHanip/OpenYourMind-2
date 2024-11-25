@@ -30,7 +30,7 @@ Icon, & Utilities
   * MySql
 
 # Folder Structure
-
+```plaintext
 OPENYOURMIND-2
 └── resources
 	├── css
