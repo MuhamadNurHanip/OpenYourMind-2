@@ -1,2 +1,2 @@
-# OpenYourMind-2
-About Repository about project OpenYourMind Internship Batch 2
+# About Open-your-mind
+OpenYourMind merupakan salah satu yayasan kesehatan mental:
