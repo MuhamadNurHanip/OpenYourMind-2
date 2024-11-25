@@ -32,6 +32,7 @@ Icon, & Utilities
 # Folder Structure
 
 OPENYOURMIND-2
+
 └── resources
     ├── css
     ├── public
