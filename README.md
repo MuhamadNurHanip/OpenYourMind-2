@@ -1,7 +1,7 @@
 # About Open-your-mind 
 OpenYourMind merupakan salah satu yayasan kesehatan mental:
 
- ### © By IT OYM BATCH 2
+### © By IT OYM BATCH 2
 All rights reserved. Unauthorized copying, distribution, or modification of this project is prohibited.
 
 # Tech Stack
