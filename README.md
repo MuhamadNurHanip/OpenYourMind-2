@@ -32,19 +32,19 @@ Icon, & Utilities
 # Folder Structure
 
 OPENYOURMIND-2
-- resources/
-  - css/
-  - public/
-  - views/
-    - welcome.blade.php
-  - js/
-    - app.js
-    - bootstrap.js
-    - layouts/
-    - components/
-    - router/
-    - store/
-    - views/
+└── resources
+    ├── css
+    ├── public
+    ├── views
+    │   └── welcome.blade.php
+    ├── js
+        ├── app.js
+        ├── bootstrap.js
+        ├── layouts
+        ├── components
+        ├── router
+        ├── store
+        └── views
 
  ### © By IT OYM BATCH 2
 All rights reserved. Unauthorized copying, distribution, or modification of this project is prohibited.
